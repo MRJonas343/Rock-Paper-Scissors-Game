@@ -22,4 +22,7 @@ This is a command-line version of the classic **Rock-Paper-Scissors** game, enha
 - **Node.js** version 14.x or higher.
 - **npm** (comes with Node.js).
 
+## Video Demo
+https://drive.google.com/file/d/1EqreTpYnIVxKzDW-C07l1jx9E7mo_3IW/view?usp=drive_link
+
 By Jonas Rosales (Craziest Dev)
